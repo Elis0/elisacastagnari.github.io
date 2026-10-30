@@ -1,12 +1,2 @@
-
-- Outstanding Graduate Award (CUMT), 2025.
-
-- National Scholarship for Graduate Students (Ministry of Education, China), 2024.
-
-- First-Prize Graduate Academic Scholarship (CUMT), 2023 & 2024.
-
-- Outstanding Undergraduate Thesis Award (Jiangsu, China), 2022.
-
-- First-Prize Corporate Scholarship (CUMT), 2020.
-
-- First-Prize Undergraduate Academic Scholarship (CUMT), 2019.
+- **Roche industrial partnership and UKRI PhD funding** — awarded for PhD research in AI for Biomedical Innovation at the University of Edinburgh.
+- **Academic Merit Internship** — selected for a paid internship at Scuola Normale Superiore di Pisa.

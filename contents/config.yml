@@ -1,28 +1,47 @@
-title: User Name's Homepage
-page-top-title: User Name
-top-section-bg-text: Computer Science
+title: Elisa Castagnari | AI Researcher
+page-top-title: Elisa Castagnari
+top-section-bg-text: AI for Biomedical Innovation
 backgrounds:
-  - static/assets/background/background_0.jpeg
-  - static/assets/background/background_1.jpeg
+  - static/assets/background/biomedical-ai.svg
 background-interval-ms: 7000
-background-overlay: 0.52
-copyright-text: '&copy; Sen Li 2023-2026. All Rights Reserved.'
+background-overlay: 0.36
+copyright-text: '&copy; Elisa Castagnari 2026. All Rights Reserved.'
 github-link:
-  text: Github
-  href: https://github.com/senli1073
+  text: GitHub
+  href: https://github.com/Elis0
 license-link:
   text: License
-  href: https://github.com/senli1073/senli1073.github.io/blob/main/LICENSE
+  href: https://github.com/Elis0/elisacastagnari.github.io/blob/main/LICENSE
 sections:
   - id: home
     nav: HOME
-    title: User Name&ensp;|&ensp;姓名
+    title: Elisa Castagnari
     href: '#page-top' # Default to '#<id>' if not specified
+  - id: research
+    nav: RESEARCH
+    title: Research
+    icon: bi-lightbulb-fill
+  - id: writing
+    nav: NOTES
+    title: Notes from the research journey
+    icon: bi-journal-text
   - id: publications
     nav: PUBLICATIONS
-    title: PUBLICATIONS
+    title: Selected publications
     icon: bi-file-text-fill
+  - id: projects
+    nav: PROJECTS
+    title: Selected projects
+    icon: bi-code-slash
+  - id: journey
+    nav: JOURNEY
+    title: Experience, education & recognition
+    icon: bi-mortarboard-fill
   - id: awards
     nav: AWARDS
-    title: AWARDS
+    title: Awards & funding
     icon: bi-award-fill
+  - id: contact
+    nav: CONTACT
+    title: Get in touch
+    icon: bi-envelope-fill

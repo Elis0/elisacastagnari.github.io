@@ -1,16 +1,7 @@
+I'm **Elisa Castagnari**, a PhD candidate in AI for Biomedical Innovation at the University of Edinburgh, in partnership with Roche.
 
+My main interests are **healthcare data interoperability, large language models, AI agents, and biomedical ontologies**.
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[Download my CV (PDF)](static/assets/CV/CastagnariElisa_CV.pdf) · [Email me](mailto:s2795874@ed.ac.uk) · [GitHub](https://github.com/Elis0)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
-
-#### Contact
-
-Email: user[at]fas.harvard.edu
-
-#### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
-
-#### Research Interests
-Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
+Outside research, I enjoy swimming, knitting, reading, and painting. I was also a regional champion in Italy with my synchronized swimming team.

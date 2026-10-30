@@ -179,8 +179,8 @@ section header h2 {
 section .main-body {
     font-size: 1.3rem;
     font-weight: 200;
-    line-height: 2.4rem;
-    text-align: justify;
+    line-height: 1.9rem;
+    text-align: left;
 }
 
 /* Content column: 80% of the viewport on large screens (10% whitespace
@@ -239,6 +239,10 @@ section .main-body {
 #avatar img {
     width: min(180px, max(130px, calc(100vw / 6)));
     height: auto;
+    aspect-ratio: 1;
+    object-fit: cover;
+    object-position: center 62%;
+    border-radius: 50%;
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
 }
 
